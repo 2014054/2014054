@@ -1,4 +1,11 @@
-## Hi there 👋
+# Hi there, I'm Jákup Petur👋
+
+I'm a student at Fróðskaparsetur Føroya. I'm passionate about programming.
+
+## 🚀 Skills and Technologies
+- **Programming Languages**: Python, JavaScript, PHP, etc.
+- **Frameworks and Libraries**: React, Node.js, CodeIgniter, etc.
+- **Tools**: Git, Docker, MySQL, etc.
 
 <!--
 **2014054/2014054** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
